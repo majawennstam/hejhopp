@@ -12,3 +12,20 @@ body {
   height: 100vh;
   background-color: aquamarine;
 }
+
+.container {
+  background-color: beige;
+  justify-content: space-between;
+  display: flex;
+  padding: 3rem;
+}
+
+.btn {
+  margin-right: 15px;
+  padding: 1rem;
+  border-radius: 20%;
+}
+
+p {
+  font-size: 2rem;
+}
