@@ -28,4 +28,10 @@ body {
 
 p {
   font-size: 2rem;
+  text-transform: uppercase;
+}
+
+p:hover {
+  color: red;
+  text-decoration: underline;
 }
