@@ -3,5 +3,5 @@
 const btn = document.querySelector(".btn");
 
 btn.addEventListener("click", function () {
-  btn.style.backgroundColor = "red";
+  document.body.style.backgroundColor = "red";
 });
